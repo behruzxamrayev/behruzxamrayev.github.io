@@ -430,7 +430,7 @@ nav.active {
     background: #fff;
     color: #333;
     text-align: center;
-    transistion: 0.5s ease;
+    transition: all 0.5s ease;
   }
   
   /* Ikonka bosilganda menyuni ko'rsatish */
